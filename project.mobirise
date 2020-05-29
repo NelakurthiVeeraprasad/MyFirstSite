@@ -33,7 +33,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "MySallon",
+    "name": "MyFirstSite",
     "versionFirst": "4.12.3",
     "siteFonts": [
       {
@@ -45,7 +45,15 @@
     "imageResize": true,
     "uniqCompNum": 11,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "canonical-url": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
